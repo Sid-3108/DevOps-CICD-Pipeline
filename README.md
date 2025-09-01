@@ -15,7 +15,7 @@ It covers the full flow from provisioning servers → configuring Jenkins/Docker
 
 📌 Important Note
 - The **Java application code** is present in the **`main` branch**.  
-- This **`docs` branch** contains only **documentation** (step-by-step guides).  
+- This **`images` branch** contains only **output-screenshots** (step-by-step guides).  
 
 ---
 
